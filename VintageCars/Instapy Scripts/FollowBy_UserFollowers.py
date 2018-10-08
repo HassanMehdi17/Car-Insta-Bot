@@ -1,7 +1,7 @@
 from instapy import InstaPy
 
 insta_username = 'carvintagepage'
-insta_password = 'Qwertyu12'
+insta_password = 'password'
 
 # set headless_browser=True if you want to run InstaPy on a server
 try:
